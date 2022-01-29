@@ -4,6 +4,4 @@
  
  (The app is unfinished since there is a problem in the audioplayer package of flutter).
 
-![Finished App](https://github.com/londonappbrewery/Images/blob/master/xylophone-flutter.png)
-
 
